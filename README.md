@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando Segurança da Informação, comecei a desenolver aos 15 anos. Hoje após mais 5 anos sou membro no time de desenvolvimento da @sev7ncs pela @crazydog sempre focado em dar o maximo ao meu time & projeto.
 
 <h3 align="left">Follow me:</h3>
-<a href="https://twitter.com/shadez1kA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="25" /></a>
+<a href="https://instagram.com/shadez1kA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="25" /></a>
 <br>
 <h3 align="left">Tools, Programs and Languages:</h3>
 <a href="#" target="_blank"><img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="azure" width="40" height="40"/></a>
