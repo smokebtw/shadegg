@@ -29,3 +29,15 @@ Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="azure" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="azure" width="30" height="35"/></a>
 <a href="#" target="_blank"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="azure" width="50" height="35"/></a>
+<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" alt="azure" width="50" height="35"/></a>
+<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://developer.asustor.com/uploadIcons/0020_76878_1550603669_logoicon256.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/Multi_Theft_Auto_logo.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqCga05i6v6rhqKhZALTzuqHL5vLUp4IQd7W2RbkBbDWI7HjFxq2NmKokKXBzG5kLFIw&usqp=CAU" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="azure" width="45" height="35"/></a>
+<a href="#" target="_blank"><img src="https://windowsroom.com/wp-content/uploads/2021/03/vMix-Pro-Full-version.png" alt="azure" width="35" height="35"/></a>
+<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png" alt="azure" width="35" height="35"/></a>
