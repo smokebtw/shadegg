@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 ## <img src="https://cdn.discordapp.com/emojis/864817657479692298.gif?v=1" width="20px" alt="hi">  About Me
 
-Where should I start? Well, my name is Vítor Ribeiro I am currently studying Information Security.
-I started developing software when I was 15 years old. today after 5 more I am a member of the sev7n team by @crazydog focused on giving the most to my team & project.
+Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando Segurança da Informação, comecei a desenolver aos 15 anos. Hoje após mais 5 anos sou membro no time de desenvolvimento da @sev7ncs pela @crazydog sempre focado em dar o maximo ao meu time & projeto.
+
+## Connect with me:
+<p align="left">  
+<a href="https://discord.gg/cCR9WcCpQ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taufeeq" height="30" width="40" /></a>
+<a href="https://twitter.com/shadez1kA" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="taufeeq" height="20" width="25" /></a>
+<a href="https://twitter.com/shadez1kA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taufeeq" height="20" width="25" /></a>
