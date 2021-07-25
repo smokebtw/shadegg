@@ -47,4 +47,4 @@ Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando 
 
 Insides by:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadegg&show_icons=true&locale=en&layout=compact" alt="shadevitor" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeqriyaz&show_icons=true&locale=en" alt="taufeeqriyaz" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadegg&show_icons=true&locale=en" alt="taufeeqriyaz" /></p> 
