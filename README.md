@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://cdn.discordapp.com/emojis/864817657794658314.gif?v=1" width="20px" alt="hi"> About Me
+## <img src="https://cdn.discordapp.com/emojis/864817657479692298.gif?v=1" width="20px" alt="hi"> About Me
