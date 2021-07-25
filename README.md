@@ -1,4 +1,4 @@
-# Hey, I'm [Vítor Ribeiro][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey, I'm Vítor "shade" Ribeiro <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <!--
 **shadegg/shadegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <img src="https://cdn.discordapp.com/emojis/864817657794658314.gif?v=1" width="20px" alt="hi"> About Me
