@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## <img src="https://cdn.discordapp.com/emojis/864817657479692298.gif?v=1" width="20px" alt="hi">  About Me
 
-Por onde devo começar? Bom, me chamo Vítor Ribeiro atualmente estou estudando segurança da informação & Design.
+Por onde devo começar? Bom, me chamo Vítor Ribeiro atualmente estou estudando Segurança da informação.
 Comecei a desenvolver software aos 15 anos. hoje após mais 5 sou membro no time da sev7n pela @crazydog(Crazy Dog Gaming Club) focado em dar o maximo ao meu time & projeto.
