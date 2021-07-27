@@ -44,7 +44,7 @@ Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando 
 
 ## <img src="https://cdn.discordapp.com/emojis/864816587298439189.gif?v=1" width="20px" alt="hi">  Stats on Github
 [![Shade Github Activity Grap](https://activity-graph.herokuapp.com/graph?username=shadegg&theme=react-dark)](https://github.com/shadegg?tab=repositories)
-a
+
 Informations system by: anuraghazra
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadegg&show_icons=true&locale=en" alt="shadegg" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadegg" alt="shadegg" /></p>
