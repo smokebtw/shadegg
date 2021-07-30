@@ -50,4 +50,4 @@ Informations system by: anuraghazra
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadegg" alt="shadegg" /></p>
 
 
-README Profile inspirada na do [@TaufeeqRiyaz](https://www.github.com/TaufeeqRiyaz)
+README Profile inspired by the [@TaufeeqRiyaz](https://www.github.com/TaufeeqRiyaz)
