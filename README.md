@@ -48,3 +48,6 @@ Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando 
 Informations system by: anuraghazra
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadegg&show_icons=true&locale=en" alt="shadegg" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadegg" alt="shadegg" /></p>
+
+
+README Profile inspirada na do @Taufeeks
