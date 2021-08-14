@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://cdn.discordapp.com/emojis/864817657479692298.gif?v=1" width="20px" alt="hi">  About Me
 
-Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando Segurança da Informação, comecei a desenolver aos 15 anos. Hoje após mais 5 anos sou membro no time de desenvolvimento da @sev7ncs pela @crazydog sempre focado em dar o maximo ao meu time & projeto.
+Por onde devo começar? Bom. Me chamo Vítor Ribeiro atualmente estou estudando ReactJS, comecei a desenolver aos 15 anos. Hoje após mais 5 anos sou membro no time de desenvolvimento da @sev7ncs pela @astro.dev sempre focado em dar o maximo ao meu time & projetos.
 
 <h3 align="left">Follow me:</h3>
 <a href="https://instagram.com/shadez1kA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="25" /></a>
